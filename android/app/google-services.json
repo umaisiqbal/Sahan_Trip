@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180214810675",
+    "project_id": "boiler-plate-6162c",
+    "storage_bucket": "boiler-plate-6162c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180214810675:android:a64905331dd03b7a56bb46",
+        "android_client_info": {
+          "package_name": "com.baseboilerplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFKVI0qfj7gZ0dJ3Hk8_6aAkOc_2iXB5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
